@@ -10,8 +10,8 @@ dont_starve_compatible = false
 reign_of_giants_compatible = false
 all_clients_require_mod = true
 
-icon_atlas = ""  --mod图标文件.xml
-icon = "" --mod图标文件.tex
+icon_atlas = "modicon.xml"  --mod图标文件.xml
+icon = "modicon.tex" --mod图标文件.tex
 
 server_filter_tags = {
 "character",
