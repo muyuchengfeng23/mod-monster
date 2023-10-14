@@ -1,2 +1,2 @@
 # mod-monster
-mod foe dont starve together
+mod for dont starve together
